@@ -1,4 +1,5 @@
 # todo_list
+Aplikasi Projek untuk perkuliahan mata kuliah Pengembangan Mobile Semester 4
 
 A new Flutter project.
 
